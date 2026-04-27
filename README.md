@@ -42,8 +42,8 @@
 ## 📊  GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ryskn&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="ryskn's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryskn&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ryskn&show_icons=true&hide_border=true" alt="ryskn's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryskn&layout=compact&hide_border=true&langs_count=8&exclude_repo=pve-manager,qemu-server,pve-common,proxmox-widget-toolkit,vpp,diffusion-ui,container-images" alt="Top Languages" />
 </p>
 
 ## 📫  Contact
