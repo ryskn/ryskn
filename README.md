@@ -24,17 +24,6 @@
 | Project | テーマ |
 | --- | --- |
 | [`projectcalico/vpp-dataplane`](https://github.com/projectcalico/vpp-dataplane) | Calico の VPP データプレーン (SRv6 / CNAT 周り) |
-| [`AlmaLinux/container-images`](https://github.com/AlmaLinux/container-images) | AlmaLinux 公式コンテナイメージのリリース／SBOM |
-| [`AlmaLinux/cloud-images-sbom-tools`](https://github.com/AlmaLinux/cloud-images-sbom-tools) | AlmaLinux クラウドイメージ向け SBOM ツール |
-
-## 🔧  自分のプロジェクト (抜粋)
-
-- [`contact_time_for_cli`](https://github.com/ryskn/contact_time_for_cli) — 卒研コンタクトタイムを CLI から登録するツール (Go)
-- [`campus-ipam-ddi`](https://github.com/ryskn/campus-ipam-ddi) — Campus 向け IPAM / DDI コンソール
-- [`alma-multi-ver-test`](https://github.com/ryskn/alma-multi-ver-test) — AlmaLinux 8/9/10 横断の YAML 駆動 IaC テスト (Go + gRPC)
-- [`k8s-worker-setup-rpm`](https://github.com/ryskn/k8s-worker-setup-rpm) — Kubernetes ワーカー初期セットアップ RPM
-- [`vpp-rpm`](https://github.com/ryskn/vpp-rpm) — Fedora / AlmaLinux 向け VPP の RPM パッケージング
-- [`grpc-flow-bench`](https://github.com/ryskn/grpc-flow-bench) — gRPC フロー計測ベンチ
 
 ## 🧰  Tech Stack
 
