@@ -48,4 +48,4 @@
 
 ## 📫  Contact
 
-`github@ryskn.com`
+`ryosuke.nakayama@ryskn.com`
