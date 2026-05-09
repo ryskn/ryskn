@@ -39,13 +39,6 @@
   <img src="https://img.shields.io/badge/-VPP-FF6F00?style=flat-square" alt="VPP" />
 </p>
 
-## 📊  GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ryskn&show_icons=true&hide_border=true" alt="ryskn's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryskn&layout=compact&hide_border=true&langs_count=8&exclude_repo=pve-manager,qemu-server,pve-common,proxmox-widget-toolkit,vpp,diffusion-ui,container-images" alt="Top Languages" />
-</p>
-
 ## 📫  Contact
 
 `ryosuke.nakayama@ryskn.com`
