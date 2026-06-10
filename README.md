@@ -6,24 +6,28 @@
 </p>
 
 <p align="center">
-東京都立産業技術高等専門学校 (TMCIT) でコンピュータサイエンスを学んでいます。<br/>
-ネットワーク／クラウドインフラ寄りの低レイヤが好物です。
+Studying Computer Science at Tokyo Metropolitan College of Industrial Technology (TMCIT).<br/>
+Into low-level networking and cloud infrastructure.
 </p>
 
 ---
 
-## 🛠  興味・取り組んでいる分野
+## 🛠  Interests & Focus Areas
 
-- **ネットワーク** — BGP / SRv6 / VPP / Calico / IPv6 シングルスタック
-- **インフラ** — Kubernetes / AlmaLinux / RPM packaging / Proxmox VE
-- **言語** — メインは Go、低レイヤは C、自動化は Shell、論文は LaTeX
-- **研究** — SRv6 を用いた IPv6-only コンテナネットワーク (Calico VPP データプレーン)
+- **Networking** — BGP / SRv6 / VPP / Calico / IPv6 single-stack
+- **Infrastructure** — Kubernetes / AlmaLinux / Proxmox VE
+- **Languages** — Go (main), C, Shell, LaTeX
+- **Research** — IPv6-only container networking with SRv6 (Calico VPP dataplane)
 
-## 🌱  PR を投げている主な OSS
+## 🌱  OSS I Contribute To
 
-| Project | テーマ |
+| Project | Topic |
 | --- | --- |
-| [`projectcalico/vpp-dataplane`](https://github.com/projectcalico/vpp-dataplane) | Calico の VPP データプレーン (SRv6 / CNAT 周り) |
+| [`projectcalico/vpp-dataplane`](https://github.com/projectcalico/vpp-dataplane) | Calico's VPP dataplane (SRv6 / CNAT) |
+
+## 📝  Writing
+
+I write about networking and low-level infrastructure on [Zenn](https://zenn.dev/ryskn) — mostly SRv6 and Calico-VPP IPv6 single-stack.
 
 ## 🧰  Tech Stack
 
@@ -39,6 +43,12 @@
   <img src="https://img.shields.io/badge/-VPP-FF6F00?style=flat-square" alt="VPP" />
 </p>
 
-## 📫  Contact
+## 🔗  Connect
+
+<p>
+  <a href="https://zenn.dev/ryskn"><img src="https://img.shields.io/badge/Zenn-ryskn-3EA8FF?style=flat-square&logo=zenn&logoColor=white" alt="Zenn" /></a>
+  <a href="https://x.com/rysknkym"><img src="https://img.shields.io/badge/X-@rysknkym-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.linkedin.com/in/nakayama-ryosuke/"><img src="https://img.shields.io/badge/LinkedIn-Ryosuke%20Nakayama-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
 
 `ryosuke.nakayama@ryskn.com`
